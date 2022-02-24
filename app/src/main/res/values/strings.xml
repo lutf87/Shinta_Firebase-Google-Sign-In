@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Google Sign In</string>
+    <string name="Tv_login">Login</string>
+    <string name="image_splashscreen">image_splashscreen1</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34463080972",
+    "project_id": "fir-sign-in-4f39b",
+    "storage_bucket": "fir-sign-in-4f39b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34463080972:android:5ceee79242e0f004b90429",
+        "android_client_info": {
+          "package_name": "com.shinta.firebasegooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34463080972-b3ftss7ficr66nj1n39m5dcoj7reg7j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSEwLwWwlaiYozAULplLbxFhd9M6aCl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34463080972-b3ftss7ficr66nj1n39m5dcoj7reg7j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
